@@ -14,11 +14,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🐧 **Linux:** Daily driving **CachyOS**. I prefer the terminal over the GUI.
 - 🔧 **Modding:** Currently exploring **Android & Linux kernel** modding and system-level tweaks.
 - 🤖 **Automation:** Building autonomous pipelines using **n8n** and Generative AI.
 - 🌍 **Based in:** East Java, Indonesia.
-- 🌱 **Learning Path:** Currently diving into **Bug Bounty** methodologies and **Custom Kernel** compilation.
+- 🌱 **Learning Path:** Currently diving into **Cybersec** and **Custom Kernel** compilation.
 
 ---
 
